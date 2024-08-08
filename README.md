@@ -5,6 +5,39 @@ Welcome to the Lecture Backpack 🚀, a comprehensive resource repository design
 ## Overview 📚
 
 
+### [Automated Pull Scripts](Automated%20Pull%20Scripts/)
+
+The [Automated Pull Scripts](Automated%20Pull%20Scripts/) folder contains scripts that allow learners to clone specific folders from the repository using sparse checkout. Each stream has its own set of scripts for macOS, Windows, and Linux.
+
+#### Folders and Scripts:
+
+- **CS**: Contains the sparse checkout scripts for macOS, Windows, and Linux.
+  - Files: `CS_repo_clone_MacOS`, `CS_repo_clone_Windows`, `CS_repo_clone_Linux`
+
+- **DS**: Contains the sparse checkout scripts for macOS, Windows, and Linux.
+  - Files: `DS_repo_clone_MacOS`, `DS_repo_clone_Windows`, `DS_repo_clone_Linux`
+
+- **SE**: Contains the sparse checkout scripts for macOS, Windows, and Linux.
+  - Files: `SE_repo_clone_MacOS`, `SE_repo_clone_Windows`, `SE_repo_clone_Linux`
+
+- **WD**: Contains the sparse checkout scripts for macOS, Windows, and Linux.
+  - Files: `WD_repo_clone_MacOS`, `WD_repo_clone_Windows`, `WD_repo_clone_Linux`
+
+### Using the Scripts
+
+Learners should start by using the appropriate script for their stream and operating system. Below is a table linking directly to each script.
+
+| Stream | macOS Script | Windows Script | Linux Script |
+|--------|--------------|----------------|--------------|
+| **CS** | [CS_repo_clone_MacOS](Automated%20Pull%20Scripts/CS/CS_repo_clone_MacOS.sh) | [CS_repo_clone_Windows](Automated%20Pull%20Scripts/CS/CS_repo_clone_Windows.bat) | [CS_repo_clone_Linux](Automated%20Pull%20Scripts/CS/CS_repo_clone_Linux.sh) |
+| **DS** | [DS_repo_clone_MacOS](Automated%20Pull%20Scripts/DS/DS_repo_clone_MacOS.sh) | [DS_repo_clone_Windows](Automated%20Pull%20Scripts/DS/DS_repo_clone_Windows.bat) | [DS_repo_clone_Linux](Automated%20Pull%20Scripts/DS/DS_repo_clone_Linux.sh) |
+| **SE** | [SE_repo_clone_MacOS](Automated%20Pull%20Scripts/SE/SE_repo_clone_MacOS.sh) | [SE_repo_clone_Windows](Automated%20Pull%20Scripts/SE/SE_repo_clone_Windows.bat) | [SE_repo_clone_Linux](Automated%20Pull%20Scripts/SE/SE_repo_clone_Linux.sh) |
+| **WD** | [WD_repo_clone_MacOS](Automated%20Pull%20Scripts/WD/WD_repo_clone_MacOS.sh) | [WD_repo_clone_Windows](Automated%20Pull%20Scripts/WD/WD_repo_clone_Windows.bat) | [WD_repo_clone_Linux](Automated%20Pull%20Scripts/WD/WD_repo_clone_Linux.sh) |
+
+**Note:** Please ensure that you have `git` installed and configured on your machine before running these scripts.
+
+---
+
 ### [StarterPack](StarterPack/)
 
 The [StarterPack](StarterPack/) folder in this repository serves as a comprehensive resource hub for essential topics such as Python, Git, and other foundational tools. Inside, you'll find organized subfolders dedicated to each major topic, complete with detailed how-to guides and practical resources to help you get started. This folder is designed as a living document, meaning it will be continuously updated with new content and improvements to reflect the latest best practices and tools. Whether you're a beginner looking to grasp the basics or someone seeking to refine your skills, the `StarterPack` aims to provide valuable, up-to-date information to support your learning journey.
@@ -53,8 +86,21 @@ This rest of the repository is structured into four main folders, each targeting
 
 To get started with the Lecture Backpack, follow these steps:
 
-1. **Clone the repository**: Use `https://github.com/HyperionDevBootcamps/2024-Commercial-Lecture-Backpack.git` to clone this repository to your local machine.
-2. **Choose your track**: Begin with the basic Python starter module relevant to your chosen stream (e.g., Data Science, Software Engineering, Full Stack Web Development, Cybersecurity). After completing the Python starter, proceed to the specific modules for your stream. You are welcome to explore other streams as well if you wish to broaden your knowledge.
+1. **Install Git**: Before you begin, ensure that Git is installed on your local machine. You can find detailed installation instructions in the internal documentation located at [`StarterPack/Git/README.md`](StarterPack/Git/README.md).
+
+2. **Choose and Execute an Automated Pull Script**: Depending on your chosen stream (e.g., Data Science, Software Engineering, Full Stack Web Development, Cybersecurity) and your operating system, you will need to use one of the Automated Pull Scripts provided in the repository. This script will clone the repository and pull only the relevant files for your stream.
+
+   - **Find your script**: Navigate to the [Automated Pull Scripts](Automated%20Pull%20Scripts/) folder in this repository.
+   - **Execute the script**: Download the appropriate script for your stream and operating system, then execute it on your machine. This will set up the necessary files for your learning path.
+
+   | Stream | macOS Script | Windows Script | Linux Script |
+   |--------|--------------|----------------|--------------|
+   | **CS** | [CS_repo_clone_MacOS](Automated%20Pull%20Scripts/CS/CS_repo_clone_MacOS.sh) | [CS_repo_clone_Windows](Automated%20Pull%20Scripts/CS/CS_repo_clone_Windows.bat) | [CS_repo_clone_Linux](Automated%20Pull%20Scripts/CS/CS_repo_clone_Linux.sh) |
+   | **DS** | [DS_repo_clone_MacOS](Automated%20Pull%20Scripts/DS/DS_repo_clone_MacOS.sh) | [DS_repo_clone_Windows](Automated%20Pull%20Scripts/DS/DS_repo_clone_Windows.bat) | [DS_repo_clone_Linux](Automated%20Pull%20Scripts/DS/DS_repo_clone_Linux.sh) |
+   | **SE** | [SE_repo_clone_MacOS](Automated%20Pull%20Scripts/SE/SE_repo_clone_MacOS.sh) | [SE_repo_clone_Windows](Automated%20Pull%20Scripts/SE/SE_repo_clone_Windows.bat) | [SE_repo_clone_Linux](Automated%20Pull%20Scripts/SE/SE_repo_clone_Linux.sh) |
+   | **WD** | [WD_repo_clone_MacOS](Automated%20Pull%20Scripts/WD/WD_repo_clone_MacOS.sh) | [WD_repo_clone_Windows](Automated%20Pull%20Scripts/WD/WD_repo_clone_Windows.bat) | [WD_repo_clone_Linux](Automated%20Pull%20Scripts/WD/WD_repo_clone_Linux.sh) |
+
+3. **Choose your track**: Begin with the basic Python starter module relevant to your chosen stream (e.g., Data Science, Software Engineering, Full Stack Web Development, Cybersecurity). After completing the Python starter, proceed to the specific modules for your stream. You are welcome to explore other streams as well if you wish to broaden your knowledge.
 
 ## License 📄
 
