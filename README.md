@@ -32,7 +32,7 @@ Learners should start by using the appropriate script for their stream and opera
 2. **Choose and Download an Automated Pull Script**: Depending on your chosen stream (e.g., Data Science, Software Engineering, Full Stack Web Development, Cybersecurity) and your operating system, download the appropriate Automated Pull Script provided in the repository.
 
    - **Download the script**:
-     - Right-click on the script link below for your stream and operating system.
+     - **Right-click on the script link** below for your stream and operating system.
      - **Select "Save Link As..." or "Save Target As..." to download the script to your machine**.
    - **Execute the script**: After downloading, execute the script on your machine. This will clone the repository and pull only the relevant files for your learning path.
 
