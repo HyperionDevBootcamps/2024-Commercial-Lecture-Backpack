@@ -5,14 +5,14 @@ Welcome to the Lecture Backpack 🚀, a comprehensive resource repository design
 ## Overview 📚
 
 
-### [StarterPack](../Commercial-Lecture-Backpack/StarterPack/)
+### [StarterPack](../2024-Commercial-Lecture-Backpack/StarterPack/)
 
-The [StarterPack](../Commercial-Lecture-Backpack/StarterPack/) folder in this repository serves as a comprehensive resource hub for essential topics such as Python, Git, and other foundational tools. Inside, you'll find organized subfolders dedicated to each major topic, complete with detailed how-to guides and practical resources to help you get started. This folder is designed as a living document, meaning it will be continuously updated with new content and improvements to reflect the latest best practices and tools. Whether you're a beginner looking to grasp the basics or someone seeking to refine your skills, the `StarterPack` aims to provide valuable, up-to-date information to support your learning journey.
+The [StarterPack](../2024-Commercial-Lecture-Backpack/StarterPack/) folder in this repository serves as a comprehensive resource hub for essential topics such as Python, Git, and other foundational tools. Inside, you'll find organized subfolders dedicated to each major topic, complete with detailed how-to guides and practical resources to help you get started. This folder is designed as a living document, meaning it will be continuously updated with new content and improvements to reflect the latest best practices and tools. Whether you're a beginner looking to grasp the basics or someone seeking to refine your skills, the `StarterPack` aims to provide valuable, up-to-date information to support your learning journey.
 
 
 This rest of the repository is structured into four main folders, each targeting a specific learning track:
 
-- **[Software Engineering (SE)](../Commercial-Lecture-Backpack/Software%20Engineering%20(SE)/)** : This stream is designed to provide a comprehensive foundation in software engineering, starting with Python basics and progressing through advanced topics. It covers:
+- **[Software Engineering (SE)](../2024-Commercial-Lecture-Backpack/Software%20Engineering%20(SE)/)** : This stream is designed to provide a comprehensive foundation in software engineering, starting with Python basics and progressing through advanced topics. It covers:
 
   - **Python Fundamentals**: Basics of Python, including input/output, data types, and control structures.
   - **Iteration and Sequences**: Working with loops, strings, lists, and dictionaries.
@@ -21,7 +21,7 @@ This rest of the repository is structured into four main folders, each targeting
   - **Web Development with Django**: Building web applications using Django, including MVT design pattern and authentication.
   - **Data Structures and Algorithms**: Introduction to data structures like stacks and trees, and algorithms for sorting and searching.
 
-- **[CyberSecurity (CS)](../Commercial-Lecture-Backpack/CyberSecurity%20(CS)/)** : This stream covers foundational and advanced topics in cybersecurity, focusing on both technical skills and strategic responses to security challenges. It includes:
+- **[CyberSecurity (CS)](../2024-Commercial-Lecture-Backpack/CyberSecurity%20(CS)/)** : This stream covers foundational and advanced topics in cybersecurity, focusing on both technical skills and strategic responses to security challenges. It includes:
 
   - **Python Programming Fundamentals**: Basics of Python, including data types, conditionals, loops, and data structures.
   - **Debugging and OOP**: Techniques for debugging Python code and understanding Object-Oriented Programming.
@@ -30,7 +30,7 @@ This rest of the repository is structured into four main folders, each targeting
   - **Web Security**: Understanding web development basics, MITM attacks, XSS vulnerabilities, and SQL injection prevention.
   - **Ethical Hacking**: Techniques for penetration testing and ethical hacking to assess and improve security.
 
-- **[Data Science (DS)](../Commercial-Lecture-Backpack/Data%20Science%20(DS)/)** : This stream offers a comprehensive introduction to data science, covering fundamental programming skills, data manipulation, and advanced machine learning techniques. It includes:
+- **[Data Science (DS)](../2024-Commercial-Lecture-Backpack/Data%20Science%20(DS)/)** : This stream offers a comprehensive introduction to data science, covering fundamental programming skills, data manipulation, and advanced machine learning techniques. It includes:
 
   - **Python Fundamentals**: Basics of Python, including data types, conditional statements, loops, and functions.
   - **Data Management**: Using Pandas for data manipulation, handling datasets, and performing data analysis and visualization with Matplotlib and Seaborn.
@@ -40,7 +40,7 @@ This rest of the repository is structured into four main folders, each targeting
   - **Advanced Machine Learning Techniques**: Implementing and understanding decision trees and random forests to enhance predictive accuracy and model robustness.
 
 
-- **[Full Stack Web Development (WD)](../Commercial-Lecture-Backpack/Full%20Stack%20Web%20Development%20(WD)/)** : This stream provides a comprehensive introduction to web development, starting with the basics of HTML and CSS, and advancing to modern JavaScript frameworks and backend development. It covers:
+- **[Full Stack Web Development (WD)](../2024-Commercial-Lecture-Backpack/Full%20Stack%20Web%20Development%20(WD)/)** : This stream provides a comprehensive introduction to web development, starting with the basics of HTML and CSS, and advancing to modern JavaScript frameworks and backend development. It covers:
 
   - **HTML & CSS Fundamentals**: Basics of HTML and CSS, including creating website skeletons and styling.
   - **JavaScript Basics**: Core concepts of JavaScript, including variables, data types, control flow, and DOM manipulation.
