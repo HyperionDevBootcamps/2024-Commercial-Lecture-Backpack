@@ -53,7 +53,7 @@ This rest of the repository is structured into four main folders, each targeting
 
 To get started with the Lecture Backpack, follow these steps:
 
-1. **Clone the repository**: Use `git clone https://github.com/skills-cogrammar/C7-Lecture-Backpack.git` to clone this repository to your local machine.
+1. **Clone the repository**: Use `https://github.com/HyperionDevBootcamps/2024-Commercial-Lecture-Backpack.git` to clone this repository to your local machine.
 2. **Choose your track**: Begin with the basic Python starter module relevant to your chosen stream (e.g., Data Science, Software Engineering, Full Stack Web Development, Cybersecurity). After completing the Python starter, proceed to the specific modules for your stream. You are welcome to explore other streams as well if you wish to broaden your knowledge.
 
 ## License 📄
