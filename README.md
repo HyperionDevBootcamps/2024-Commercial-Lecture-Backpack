@@ -25,7 +25,16 @@ The [Automated Pull Scripts](Automated%20Pull%20Scripts/) folder contains script
 
 ### Using the Scripts
 
-Learners should start by using the appropriate script for their stream and operating system. Below is a table linking directly to each script.
+Learners should start by using the appropriate script for their stream and operating system. Below is a table linking directly to each script. To get started with the Lecture Backpack, follow these steps:
+
+1. **Install Git**: Before you begin, ensure that Git is installed on your local machine. You can find detailed installation instructions in the internal documentation located at [`StarterPack/Git/README.md`](StarterPack/Git/README.md).
+
+2. **Choose and Download an Automated Pull Script**: Depending on your chosen stream (e.g., Data Science, Software Engineering, Full Stack Web Development, Cybersecurity) and your operating system, download the appropriate Automated Pull Script provided in the repository.
+
+   - **Download the script**:
+     - Right-click on the script link below for your stream and operating system.
+     - Select "Save Link As..." or "Save Target As..." to download the script to your machine.
+   - **Execute the script**: After downloading, execute the script on your machine. This will clone the repository and pull only the relevant files for your learning path.
 
 | Stream | macOS Script | Windows Script | Linux Script |
 |--------|--------------|----------------|--------------|
@@ -33,7 +42,6 @@ Learners should start by using the appropriate script for their stream and opera
 | **DS** | [Download DS_repo_clone_MacOS.sh](https://github.com/HyperionDevBootcamps/2024-Commercial-Lecture-Backpack/tree/main/Automated%20Pull%20Scripts/DS/DS_repo_clone_MacOS.sh) | [Download DS_repo_clone_Windows.bat](https://github.com/HyperionDevBootcamps/2024-Commercial-Lecture-Backpack/tree/main/Automated%20Pull%20Scripts/DS/DS_repo_clone_Windows.bat) | [Download DS_repo_clone_Linux.sh](https://github.com/HyperionDevBootcamps/2024-Commercial-Lecture-Backpack/tree/main/Automated%20Pull%20Scripts/DS/DS_repo_clone_Linux.sh) |
 | **SE** | [Download SE_repo_clone_MacOS.sh](https://github.com/HyperionDevBootcamps/2024-Commercial-Lecture-Backpack/tree/main/Automated%20Pull%20Scripts/SE/SE_repo_clone_MacOS.sh) | [Download SE_repo_clone_Windows.bat](https://github.com/HyperionDevBootcamps/2024-Commercial-Lecture-Backpack/tree/main/Automated%20Pull%20Scripts/SE/SE_repo_clone_Windows.bat) | [Download SE_repo_clone_Linux.sh](https://github.com/HyperionDevBootcamps/2024-Commercial-Lecture-Backpack/tree/main/Automated%20Pull%20Scripts/SE/SE_repo_clone_Linux.sh) |
 | **WD** | [Download WD_repo_clone_MacOS.sh](https://github.com/HyperionDevBootcamps/2024-Commercial-Lecture-Backpack/tree/main/Automated%20Pull%20Scripts/WD/WD_repo_clone_MacOS.sh) | [Download WD_repo_clone_Windows.bat](https://github.com/HyperionDevBootcamps/2024-Commercial-Lecture-Backpack/tree/main/Automated%20Pull%20Scripts/WD/WD_repo_clone_Windows.bat) | [Download WD_repo_clone_Linux.sh](https://github.com/HyperionDevBootcamps/2024-Commercial-Lecture-Backpack/tree/main/Automated%20Pull%20Scripts/WD/WD_repo_clone_Linux.sh) |
-
 
 **Note:** Please ensure that you have `git` installed and configured on your machine before running these scripts.
 
@@ -89,10 +97,12 @@ To get started with the Lecture Backpack, follow these steps:
 
 1. **Install Git**: Before you begin, ensure that Git is installed on your local machine. You can find detailed installation instructions in the internal documentation located at [`StarterPack/Git/README.md`](StarterPack/Git/README.md).
 
-2. **Choose and Execute an Automated Pull Script**: Depending on your chosen stream (e.g., Data Science, Software Engineering, Full Stack Web Development, Cybersecurity) and your operating system, you will need to use one of the Automated Pull Scripts provided in the repository. This script will clone the repository and pull only the relevant files for your stream.
+2. **Choose and Download an Automated Pull Script**: Depending on your chosen stream (e.g., Data Science, Software Engineering, Full Stack Web Development, Cybersecurity) and your operating system, download the appropriate Automated Pull Script provided in the repository.
 
-   - **Find your script**: Navigate to the [Automated Pull Scripts](Automated%20Pull%20Scripts/) folder in this repository.
-   - **Execute the script**: Download the appropriate script for your stream and operating system, then execute it on your machine. This will set up the necessary files for your learning path.
+   - **Download the script**:
+     - Right-click on the script link below for your stream and operating system.
+     - Select "Save Link As..." or "Save Target As..." to download the script to your machine.
+   - **Execute the script**: After downloading, execute the script on your machine. This will clone the repository and pull only the relevant files for your learning path.
 
 | Stream | macOS Script | Windows Script | Linux Script |
 |--------|--------------|----------------|--------------|
