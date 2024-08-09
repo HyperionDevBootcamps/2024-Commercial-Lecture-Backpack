@@ -53,17 +53,17 @@ The [StarterPack](StarterPack/) folder in this repository serves as a comprehens
 YouTube video to install Git: 
 - [Mac Users](https://youtu.be/An27idB9JEk)
 - [Windows Users](https://youtu.be/49UvPYzWAIY)
-- [Linux Users](https://youtu.be/49UvPYzWAIY)
+- [Linux Users](https://youtu.be/xDFkpfgCc9g)
 
 Video to install Python3: 
 - [Mac Users](https://youtu.be/49UvPYzWAIY)
 - [Windows Users](https://youtu.be/49UvPYzWAIY)
-- [Linux Users](https://youtu.be/49UvPYzWAIY)
+- [Linux Users](https://youtu.be/joNQhiMbhF0)
 
 Video to install VS Code: 
 - [Mac Users](https://youtu.be/fF3bKKUT3CA)
-- [Mac Users](https://youtu.be/49UvPYzWAIY)
-- [Mac Users](https://youtu.be/49UvPYzWAIY)
+- [Windows Users](https://youtu.be/49UvPYzWAIY)
+- [Linux Users](https://youtu.be/ARu5TFncXsg)
 
 This rest of the repository is structured into four main folders, each targeting a specific learning track:
 
