@@ -4,7 +4,6 @@ Welcome to the Lecture Backpack 🚀, a comprehensive resource repository design
 
 ## Overview 📚
 
-
 ### [Automated Pull Scripts](Automated%20Pull%20Scripts/)
 
 The [Automated Pull Scripts](Automated%20Pull%20Scripts/) folder contains scripts that allow learners to clone specific folders from the repository using sparse checkout. Each stream has its own set of scripts for macOS, Windows, and Linux.
@@ -51,6 +50,20 @@ Learners should start by using the appropriate script for their stream and opera
 
 The [StarterPack](StarterPack/) folder in this repository serves as a comprehensive resource hub for essential topics such as Python, Git, and other foundational tools. Inside, you'll find organized subfolders dedicated to each major topic, complete with detailed how-to guides and practical resources to help you get started. This folder is designed as a living document, meaning it will be continuously updated with new content and improvements to reflect the latest best practices and tools. Whether you're a beginner looking to grasp the basics or someone seeking to refine your skills, the `StarterPack` aims to provide valuable, up-to-date information to support your learning journey.
 
+YouTube video to install Git: 
+- [Mac Users](https://youtu.be/An27idB9JEk)
+- [Windows Users](https://youtu.be/49UvPYzWAIY)
+- [Linux Users](https://youtu.be/49UvPYzWAIY)
+
+Video to install Python3: 
+- [Mac Users](https://youtu.be/49UvPYzWAIY)
+- [Windows Users](https://youtu.be/49UvPYzWAIY)
+- [Linux Users](https://youtu.be/49UvPYzWAIY)
+
+Video to install VS Code: 
+- [Mac Users](https://youtu.be/fF3bKKUT3CA)
+- [Mac Users](https://youtu.be/49UvPYzWAIY)
+- [Mac Users](https://youtu.be/49UvPYzWAIY)
 
 This rest of the repository is structured into four main folders, each targeting a specific learning track:
 
