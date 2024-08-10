@@ -35,12 +35,17 @@ Learners should start by using the appropriate script for their stream and opera
      - **Select "Save Link As..." or "Save Target As..."** to download the script to your machine.
    - **Execute the script**: After downloading, execute the script on your machine. This will clone the repository and pull only the relevant files for your learning path.
 
-| Stream | macOS Script | Windows Script | Linux Script |
-|--------|--------------|----------------|--------------|
+# Script Download Guide
+
+This guide provides download links for repository clone scripts across different streams and operating systems.
+
+| Stream | ![Mac Icon](https://img.icons8.com/color/48/000000/mac-os.png)<br>macOS Script | ![Windows Icon](https://img.icons8.com/color/48/000000/windows-10.png)<br>Windows Script | ![Linux Icon](https://img.icons8.com/color/48/000000/linux.png)<br>Linux Script |
+|--------|:-------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------:|
 | **CS** | [Download CS_repo_clone_MacOS.sh](https://github.com/HyperionDevBootcamps/2024-Commercial-Lecture-Backpack/tree/main/Automated%20Pull%20Scripts/CS/CS_repo_clone_MacOS.sh) | [Download CS_repo_clone_Windows.bat](https://github.com/HyperionDevBootcamps/2024-Commercial-Lecture-Backpack/tree/main/Automated%20Pull%20Scripts/CS/CS_repo_clone_Windows.bat) | [Download CS_repo_clone_Linux.sh](https://github.com/HyperionDevBootcamps/2024-Commercial-Lecture-Backpack/tree/main/Automated%20Pull%20Scripts/CS/CS_repo_clone_Linux.sh) |
 | **DS** | [Download DS_repo_clone_MacOS.sh](https://github.com/HyperionDevBootcamps/2024-Commercial-Lecture-Backpack/tree/main/Automated%20Pull%20Scripts/DS/DS_repo_clone_MacOS.sh) | [Download DS_repo_clone_Windows.bat](https://github.com/HyperionDevBootcamps/2024-Commercial-Lecture-Backpack/tree/main/Automated%20Pull%20Scripts/DS/DS_repo_clone_Windows.bat) | [Download DS_repo_clone_Linux.sh](https://github.com/HyperionDevBootcamps/2024-Commercial-Lecture-Backpack/tree/main/Automated%20Pull%20Scripts/DS/DS_repo_clone_Linux.sh) |
 | **SE** | [Download SE_repo_clone_MacOS.sh](https://github.com/HyperionDevBootcamps/2024-Commercial-Lecture-Backpack/tree/main/Automated%20Pull%20Scripts/SE/SE_repo_clone_MacOS.sh) | [Download SE_repo_clone_Windows.bat](https://github.com/HyperionDevBootcamps/2024-Commercial-Lecture-Backpack/tree/main/Automated%20Pull%20Scripts/SE/SE_repo_clone_Windows.bat) | [Download SE_repo_clone_Linux.sh](https://github.com/HyperionDevBootcamps/2024-Commercial-Lecture-Backpack/tree/main/Automated%20Pull%20Scripts/SE/SE_repo_clone_Linux.sh) |
 | **WD** | [Download WD_repo_clone_MacOS.sh](https://github.com/HyperionDevBootcamps/2024-Commercial-Lecture-Backpack/tree/main/Automated%20Pull%20Scripts/WD/WD_repo_clone_MacOS.sh) | [Download WD_repo_clone_Windows.bat](https://github.com/HyperionDevBootcamps/2024-Commercial-Lecture-Backpack/tree/main/Automated%20Pull%20Scripts/WD/WD_repo_clone_Windows.bat) | [Download WD_repo_clone_Linux.sh](https://github.com/HyperionDevBootcamps/2024-Commercial-Lecture-Backpack/tree/main/Automated%20Pull%20Scripts/WD/WD_repo_clone_Linux.sh) |
+
 
 **Note:** Please ensure that you have `git` installed and configured on your machine before running these scripts.
 
