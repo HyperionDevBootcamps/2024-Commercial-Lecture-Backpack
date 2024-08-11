@@ -1,5 +1,7 @@
 # 🎒 Lecture Backpack
 
+[Quickstart Guide](https://youtu.be/M2MO06bIJRI) (TL;DR Video)
+
 Welcome to the Lecture Backpack 🚀, a comprehensive resource repository designed for students and enthusiasts in CyberSecurity, Data Science, Full Stack Web Development, Software Engineering, and anyone looking to sharpen their coding interview skills. Our goal is to provide an all-encompassing learning experience that caters to a wide range of educational needs, from basic programming concepts to specialized topics in various tech fields.
 
 ## Overview 📚
