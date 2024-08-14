@@ -21,7 +21,7 @@ def getRandomNumber():
     return num
 
 # Function which calculates the sum of two numbers
-def calculateSum(a, b):
+def calculateSum(a, b = 3):
     return a + b
 
 
