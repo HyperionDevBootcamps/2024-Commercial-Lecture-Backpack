@@ -1,0 +1,50 @@
+1.  print("Message"): outputs message
+2.  input("Message to user"): Displays message to user, 
+    returns user input
+3.  type(value): returns the type of our value
+
+4.  int(value): converts our value to an Integer
+5.  float(value): converts our value to a Float
+6.  bool(value): converts our value to a Boolean
+7.  str(value): converts our value to a String
+
+8.  eval(string): converts a string to an expression
+
+9.  string.lower(): returns string in lowercase
+10. string.upper(): returns string in uppercase
+
+11. string.replace(oldString, newString, num_times): 
+    Replaces oldString in string with newString. 
+    If oldString occurs more than once, the replacement 
+    happens at most num_times times.
+
+12. object[slice(start, stop, step)]: returns a slice of
+    the object starting at start, stopping before stop 
+    and jumping step values
+
+13. string.split(separator): returns a list of 
+    substrings in string that are separated by the 
+    separator
+14. string.strip([characters]): removes leading and 
+    trailing characters
+15. len(string): returns the length of the string 
+    (number of characters in the string)
+
+
+16. min(value1, value2, ...): returns the minimum value
+17. max(value1, value2, ...): returns the maximum value
+
+18. range(start, stop, step): returns a list of numbers 
+    starting at start and stopping before stop and using 
+    a jump of step between the numbers
+    e.g. range(0, 5, 2) returns [0, 2, 4]
+    e.g. range(10) return [0, 1, 2, .... 9]
+
+19. abs(value): returns the positive version of value
+abs(-3) = 3
+20. round(value, decimal_places): returns the value 
+    rounded to decimal_places number of decimals
+21. pow(base, exponent): returns base number raised to the
+    power
+pow(2, 2)
+
