@@ -12,6 +12,7 @@ class Student:
 
 student1 = Student("Zahra", 24, 89)
 student1.study()
+print(student1.studying)
 
 
 class MathUtils:
