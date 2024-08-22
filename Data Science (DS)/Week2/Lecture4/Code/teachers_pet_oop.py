@@ -25,8 +25,28 @@ class Teacher:
 
         return sum / len(self.students)
     
-with open("StudentsPerformance.csv", "r") as student_file:
+    def calculate_range(self):
+        class_min = 101
+        class_max = -1
+
+        for student in self.students:
+            if student.score > class_max:
+                class_max = student.score
+            elif student.score < class_min:
+                class_min = student.score
+
+        return class_max - class_min
+        
+
+
+
+print("Welcome to Teacher's Pet!")
+teacher_name = input("What is your name: ")
+filename = input("Please enter the name of the file containing the students' information: ")
+
+with open(filename, "r") as student_file:
     file_list = student_file.readlines()
+    print("File opened.")
 
 file_list.pop(0)
 student_list = []
@@ -36,9 +56,21 @@ for student in file_list:
     columns = student.split(",")
     student_list.append(Student(columns[0].strip('"'), float(columns[5].strip('"'))))
 
-teacher = Teacher("Ms Mohamed", student_list)
-print(teacher.class_average)
-print(teacher.class_size)
+teacher = Teacher(teacher_name, student_list)
+
+print("Welcome {}. Here are some options: ".format(teacher_name))
+print("1. Calculate class average.")
+print("2. Show class size")
+print("3. Calculate class mark range.")
+
+option = input("Please enter the number of your choice.")
+
+if option == "1":
+    print(teacher.class_average)
+elif option == "2":
+    print(teacher.class_size)
+else:
+    print(teacher.calculate_range())
     
     
 
