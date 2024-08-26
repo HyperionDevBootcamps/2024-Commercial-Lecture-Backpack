@@ -1,0 +1,150 @@
+/* Global Styles */
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  background-color: #f0f2f5;
+  color: #333;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* App Container */
+.App {
+  width: 100%;
+  max-width: 900px;
+  background: #fff;
+  padding: 20px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+
+/* Navbar Styling */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 0;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.navbar h1 {
+  font-size: 1.5rem;
+  margin: 0;
+}
+
+.links {
+  display: flex;
+  align-items: center;
+}
+
+.links a {
+  margin-right: 20px;
+  text-decoration: none;
+  color: #007bff;
+  font-size: 1rem;
+  transition: color 0.3s ease;
+}
+
+.links a:hover {
+  color: #0056b3;
+}
+
+.links span {
+  margin-right: 20px;
+  font-size: 1rem;
+  color: #555;
+}
+
+.links button {
+  padding: 6px 12px;
+  background-color: #007bff;
+  border: none;
+  color: #fff;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.links button:hover {
+  background-color: #0056b3;
+}
+
+/* Home Page Styling */
+.home {
+  text-align: center;
+}
+
+.home h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.home p {
+  font-size: 1.2rem;
+  color: #555;
+}
+
+/* Profile Page Styling */
+.profile {
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+}
+
+.profile h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.profile p {
+  font-size: 1.1rem;
+  color: #444;
+}
+
+/* Login Form Styling */
+input[type="text"] {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 1rem;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  background-color: #28a745;
+  border: none;
+  color: #fff;
+  font-size: 1rem;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #218838;
+}
+
+/* Responsive Layout */
+@media (max-width: 768px) {
+  .App {
+    padding: 15px;
+    width: 90%;
+  }
+
+  .navbar h1 {
+    font-size: 1.2rem;
+  }
+
+  .links a, .links span {
+    font-size: 0.9rem;
+  }
+
+  input[type="text"], button {
+    font-size: 0.9rem;
+  }
+}
